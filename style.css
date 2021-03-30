@@ -239,12 +239,13 @@ footer .links svg:hover{
     fill: #10071d;
     margin: 10px 5px;
 }
-.icon-whatsapp svg{
+
+.btn-whatsapp svg{
     position: fixed;
     bottom: 30px;
     right: 30px;
     fill: #fff;
+    width: 50px;
+    height: 50px;
 }
-
-
 
