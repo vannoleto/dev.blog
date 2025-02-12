@@ -38,6 +38,20 @@ Este projeto foi desenvolvido durante um curso de extensão da Faculdade de Ciê
 - [x] Estilização com CSS
 - [x] Interatividade com JavaScript
 
+## Prints do projeto:
+
+![image](https://github.com/user-attachments/assets/2fca5709-e4d8-42f7-8470-8721ba07887e)
+
+![image](https://github.com/user-attachments/assets/cd6b78c9-318e-457e-afc5-214f165762d8)
+
+![image](https://github.com/user-attachments/assets/15b3f249-6ed9-4697-8ba9-259fdc99f065)
+
+![image](https://github.com/user-attachments/assets/d72c7ddf-16d1-4b5a-a841-49acbf5ec9ee)
+
+
+
+
+
 ## Autor
 
 - **Vanderson Noleto** - [LinkedIn](https://www.linkedin.com/in/vanderson-noleto)
