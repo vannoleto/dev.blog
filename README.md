@@ -23,7 +23,7 @@ Este projeto foi desenvolvido durante um curso de extensão da Faculdade de Ciê
 ## Estrutura do Projeto
 
 ```
-📂 seu-repositorio
+📂 Dev.blog
  ┣ 📂 css
  ┃ ┗ 📜 style.css
  ┣ 📂 js
