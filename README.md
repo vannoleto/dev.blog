@@ -12,11 +12,11 @@ Este projeto foi desenvolvido durante um curso de extensão da Faculdade de Ciê
 
 1. Faça o clone do repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/vannoleto/dev.blog
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd Dev.blog
    ```
 3. Abra o arquivo `index.html` no navegador.
 
